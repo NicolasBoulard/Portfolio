@@ -1,3 +1,4 @@
 themes/
 .hugo_build.lock
 _gen
+.idea/
