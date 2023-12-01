@@ -6,8 +6,7 @@ aliases = ["about", "about-me"]
 author = "Nicolas Boulard"
 +++
 
-
-Actuellement étudiant en réseaux et télécommunications à [Université de Savoie Mont-Blanc](https://www.univ-smb.fr/), je prépare un Master 2 [TRI](https://scem-tri.univ-smb.fr/). Par ailleurs, je suis actuellement en alternance chez Capgemini en tant que cloud devops.
+Ingénieur Cloud DevOps chez Capgemini je traite les problématiques de livraisons continues ainsi que les questions d'intégrations continues. 
 
 ## 5 points sur moi 
 
@@ -30,7 +29,7 @@ Actuellement étudiant en réseaux et télécommunications à [Université de Sa
     - Base de données: MySQL, PostegreSQL, MongoDB
     - Automatisation: Selenium (python)
 - GitHub: CI/CD
-- Cloud: AWS
+- Cloud: AWS, Azure
 
 
 Ayant un attrait particulier pour l'automatisation, j'automatise tout ce qui est possible. De plus j'ai pour habitude de vouloir capitaliser sur ce que je produit en grande partie du code. C'est une des raisons pour lesquelles vous trouverez un grand nombre de projets sur mon [github](https://github.com/NicolasBoulard/).

@@ -6,7 +6,6 @@ aliases = ["contact", "contact-me"]
 author = "Nicolas Boulard"
 +++
 
-# To contact me
+# Pour me contacter, utilisez les réseaux !
 
 * [LinkedIn](https://www.linkedin.com/in/nicolas-boulard/)
-* incoming 🚀 

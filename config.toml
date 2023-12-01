@@ -2,8 +2,8 @@
 baseURL = "https://nicolas.boulard.family/"
 title = "Nicolas Boulard"
 theme = "hugo-coder"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr-fr"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
@@ -13,11 +13,11 @@ enableEmoji = true
 style = "github-dark"
 
 [params]
-author = "Nicolas Boulard"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Nicolas Boulard portfolio"
-keywords = "blog,developer,personal,mountain,climbing,alpinism"
-info = ["Cloud DevOps engineer", "Mountain lover 🏔️"]
+author = "Nicolas Boulard"
+info = ["Ingénieur cloud & DevOps", "Amateur de montagne 🏔️"]
+description = "Nicolas Boulard ingénieur cloud & devops, je suis un passionné de sport et de montagne, un peu geek aussi j'aime découvrir par moi même les technologies qui gravitent autour du cloud"
+keywords = "blog,developpeur,dev,ops,devops,cloud,personal,montagne,grimpeur,alpinisme"
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -131,38 +131,6 @@ icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/nicolas-boulard/"
 
-[languages.en]
-languageName = ":uk:"
-
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
-
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
-
-[languages.fr-fr]
-languageName = ":fr:"
-title = "Nicolas Boulard"
-
-[languages.fr-fr.params]
-author = "Nicolas Boulard"
-info = ["Ingénieur cloud & DevOps", "Amateur de montagne 🏔️"]
-description = "Blog personnel de Nicolas Boulard"
-keywords = "blog,developpeur,personal,montagne,escalade,alpinisme"
 
 [[languages.fr-fr.menu.main]]
 name = "À propos"
